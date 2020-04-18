@@ -1,0 +1,157 @@
+.nav1{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    width: 125px;
+    height: 60px;
+    font-family: Actor;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.nav2{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    width: 125px;
+    height: 60px;
+    font-family: Actor;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 105px;
+}
+.nav3{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    width: 125px;
+    height: 60px;
+    font-family: Actor;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 200px;
+}
+.main-nav {
+    padding-left: 930px;
+    padding-top: 20px;
+    background-color: ;
+}
+.main-nav {
+    position: absolute;
+    width: 425px;
+    height: 120px;
+    background: #2752EB;
+    z-index: -1;
+}
+
+.title {
+    position: absolute;
+    width: 247px;
+    height: 60px;
+
+    font-family: Century Gothic;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.195em;
+    color: #000000;
+    padding-left: 150px;
+    padding-top: 5px;
+    cursor: pointer;
+}
+
+.logo {
+    padding-left: 80px;
+    padding-top: 5px;
+}
+.sub {
+    position: absolute;
+    width: 615px;
+    height: 288px;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 43px;
+    color: #000000;
+}
+.par {
+    position: absolute;
+    width: 615px;
+    height: 288px;
+    font-family: Play;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    padding-top: 150px;
+}
+#section {
+    padding-top: 170px;
+    padding-left: 650px;
+}
+.btn {
+    position: relative;
+    width: 130px;
+    height: 58px;
+    font-family: Noto Serif Bengali;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    background: #1679EE;
+    border-radius: 10px;
+}
+.btn {
+    padding-left: 30px;
+    position: relative;
+    margin-left: 855px;
+    margin-top: 270px;
+    cursor: pointer;
+}
+
+.rec {
+    position: absolute;
+    width: 1355px;
+    height: 50px;
+    background: #0BE66F;
+}
+.rec {
+    position: absolute;
+    padding-top: 500px;
+    z-index: -1;
+}
+.curry {
+    position: absolute;
+    width: 627px;
+    height: 651px;
+}
+.curry {
+    position: relative;
+    margin-top: -608px;
+    margin-left: 50px;
+}
